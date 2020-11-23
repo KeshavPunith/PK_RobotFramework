@@ -1,0 +1,17 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.DDT2 Excel                                                          
+==============================================================================
+LoginTestwithExcel                                                    | FAIL |
+Test case contains no keywords.
+------------------------------------------------------------------------------
+TestCases.DDT2 Excel                                                  | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\3\output.xml

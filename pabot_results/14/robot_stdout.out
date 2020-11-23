@@ -1,0 +1,36 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Setupandteardown                                                    
+==============================================================================
+Opening Browser
+TC1 Prepaid Recharge                                                  Login to application
+This is Prepaid recharge Test case
+Logout from application
+| PASS |
+------------------------------------------------------------------------------
+TC2 Postpaid Recharge                                                 Login to application
+This is Postpaid recharge Test case
+Logout from application
+| PASS |
+------------------------------------------------------------------------------
+TC3 Search                                                            Login to application
+This is Search Test case
+Logout from application
+| PASS |
+------------------------------------------------------------------------------
+TC4 Advanced                                                          Login to application
+This is Advanced Test case
+Logout from application
+| PASS |
+------------------------------------------------------------------------------
+Closing Browser
+TestCases.Setupandteardown                                            | PASS |
+4 critical tests, 4 passed, 0 failed
+4 tests total, 4 passed, 0 failed
+==============================================================================
+TestCases                                                             | PASS |
+4 critical tests, 4 passed, 0 failed
+4 tests total, 4 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\14\output.xml

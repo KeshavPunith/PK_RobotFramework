@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.8.5 on win32)" generated="20201122 20:09:43.598" rpa="false">
+<suite id="s1" name="TestCases" source="C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\TestCases">
+<suite id="s1-s1" name="Alerts" source="C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\TestCases\alerts.robot">
+<test id="s1-s1-t1" name="Alert">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>${url}</arg>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20201122 20:09:44.736" level="INFO">Opening browser 'chrome' to base url 'http://testautomationpractice.blogspot.com/'.</msg>
+<status status="PASS" starttime="20201122 20:09:44.735" endtime="20201122 20:10:12.739"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20201122 20:10:12.740" endtime="20201122 20:10:15.179"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://button[normalize-space()='Click Me']</arg>
+</arguments>
+<msg timestamp="20201122 20:10:15.179" level="INFO">Clicking element 'xpath://button[normalize-space()='Click Me']'.</msg>
+<status status="PASS" starttime="20201122 20:10:15.179" endtime="20201122 20:10:15.329"></status>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>3</arg>
+</arguments>
+<msg timestamp="20201122 20:10:18.391" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20201122 20:10:15.329" endtime="20201122 20:10:18.391"></status>
+</kw>
+<kw name="Alert Should Be Present" library="SeleniumLibrary">
+<doc>Verifies that an alert is present and by default, accepts it.</doc>
+<arguments>
+<arg>Press a button!</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:10:18.392" endtime="20201122 20:10:18.485"></status>
+</kw>
+<status status="PASS" starttime="20201122 20:09:44.733" endtime="20201122 20:10:18.485" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20201122 20:09:43.732" endtime="20201122 20:10:18.487"></status>
+</suite>
+<status status="PASS" starttime="20201122 20:09:43.616" endtime="20201122 20:10:18.492"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="TestCases">TestCases</stat>
+<stat pass="1" fail="0" id="s1-s1" name="Alerts">TestCases.Alerts</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,20 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Htmltable                                                           
+==============================================================================
+Table Validations                                                     7
+4
+Master In Selenium
+| FAIL |
+Keyword 'SeleniumLibrary.Table Cell Should Contain' expected 4 to 5 arguments, got 3.
+------------------------------------------------------------------------------
+TestCases.Htmltable                                                   | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\5\output.xml

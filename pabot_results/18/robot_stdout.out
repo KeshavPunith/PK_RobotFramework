@@ -1,0 +1,30 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Tags                                                                
+==============================================================================
+TC1 User Registertration Test                                         This is User Registertration Test
+User Registertration Test is over
+| PASS |
+------------------------------------------------------------------------------
+TC2 Login Test                                                        This is Login Test
+User Login Test is over
+| PASS |
+------------------------------------------------------------------------------
+TC3 Change User Settings Test                                         This is Change User Settings Test
+User Change User Settings Test is over
+| PASS |
+------------------------------------------------------------------------------
+TC3 Logout Test                                                       This is Logout Test
+User Logout Test is over
+| PASS |
+------------------------------------------------------------------------------
+TestCases.Tags                                                        | PASS |
+4 critical tests, 4 passed, 0 failed
+4 tests total, 4 passed, 0 failed
+==============================================================================
+TestCases                                                             | PASS |
+4 critical tests, 4 passed, 0 failed
+4 tests total, 4 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\18\output.xml

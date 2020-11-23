@@ -1,0 +1,22 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.TC2 :: Anglo Site Login Tests                                       
+==============================================================================
+TC1: Valid User Name and Valid Password                               | PASS |
+------------------------------------------------------------------------------
+TC2: Valid User Name and Invalid Password                             | PASS |
+------------------------------------------------------------------------------
+TC3: Invalid User Name and valid Password                             | PASS |
+------------------------------------------------------------------------------
+TC4: Invalid User Name and Invalid Password                           | PASS |
+------------------------------------------------------------------------------
+TestCases.TC2 :: Anglo Site Login Tests                               | PASS |
+4 critical tests, 4 passed, 0 failed
+4 tests total, 4 passed, 0 failed
+==============================================================================
+TestCases                                                             | PASS |
+4 critical tests, 4 passed, 0 failed
+4 tests total, 4 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\16\output.xml

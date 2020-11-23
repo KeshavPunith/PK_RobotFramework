@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.8.5 on win32)" generated="20201122 20:14:23.581" rpa="false">
+<suite id="s1" name="TestCases" source="C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\TestCases">
+<suite id="s1-s1" name="Setupandteardown" source="C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\TestCases\Setupandteardown.robot">
+<kw name="Log To Console" library="BuiltIn" type="setup">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Opening Browser</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.673" endtime="20201122 20:14:23.674"></status>
+</kw>
+<test id="s1-s1-t1" name="TC1 Prepaid Recharge">
+<kw name="Log To Console" library="BuiltIn" type="setup">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Login to application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.675" endtime="20201122 20:14:23.676"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>This is Prepaid recharge Test case</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.676" endtime="20201122 20:14:23.677"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Logout from application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.677" endtime="20201122 20:14:23.678"></status>
+</kw>
+<status status="PASS" starttime="20201122 20:14:23.674" endtime="20201122 20:14:23.678" critical="yes"></status>
+</test>
+<test id="s1-s1-t2" name="TC2 Postpaid Recharge">
+<kw name="Log To Console" library="BuiltIn" type="setup">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Login to application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.681" endtime="20201122 20:14:23.682"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>This is Postpaid recharge Test case</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.682" endtime="20201122 20:14:23.683"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Logout from application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.684" endtime="20201122 20:14:23.684"></status>
+</kw>
+<status status="PASS" starttime="20201122 20:14:23.680" endtime="20201122 20:14:23.685" critical="yes"></status>
+</test>
+<test id="s1-s1-t3" name="TC3 Search">
+<kw name="Log To Console" library="BuiltIn" type="setup">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Login to application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.687" endtime="20201122 20:14:23.687"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>This is Search Test case</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.688" endtime="20201122 20:14:23.688"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Logout from application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.689" endtime="20201122 20:14:23.689"></status>
+</kw>
+<status status="PASS" starttime="20201122 20:14:23.685" endtime="20201122 20:14:23.690" critical="yes"></status>
+</test>
+<test id="s1-s1-t4" name="TC4 Advanced">
+<kw name="Log To Console" library="BuiltIn" type="setup">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Login to application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.691" endtime="20201122 20:14:23.692"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>This is Advanced Test case</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.692" endtime="20201122 20:14:23.693"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Logout from application</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.693" endtime="20201122 20:14:23.694"></status>
+</kw>
+<status status="PASS" starttime="20201122 20:14:23.690" endtime="20201122 20:14:23.694" critical="yes"></status>
+</test>
+<kw name="Log To Console" library="BuiltIn" type="teardown">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Closing Browser</arg>
+</arguments>
+<status status="PASS" starttime="20201122 20:14:23.696" endtime="20201122 20:14:23.696"></status>
+</kw>
+<status status="PASS" starttime="20201122 20:14:23.667" endtime="20201122 20:14:23.696"></status>
+</suite>
+<status status="PASS" starttime="20201122 20:14:23.589" endtime="20201122 20:14:23.699"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="0">Critical Tests</stat>
+<stat pass="4" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="4" fail="0" id="s1" name="TestCases">TestCases</stat>
+<stat pass="4" fail="0" id="s1-s1" name="Setupandteardown">TestCases.Setupandteardown</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

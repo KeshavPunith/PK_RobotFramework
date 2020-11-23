@@ -1,0 +1,27 @@
+datasources:a6f0271432bead41e7d068cf702324724fdb89d3
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:777accda1ac8d0abf80ae0ba85eb521510870ce7
+--suite TestCases.Alerts
+--suite TestCases.Close
+--suite TestCases.DDT1
+--suite TestCases.DDT2 Excel
+--suite TestCases.Forloop
+--suite TestCases.Htmltable
+--suite TestCases.Inputbox
+--suite TestCases.Links
+--suite TestCases.LoginTest
+--suite TestCases.Mouseoper
+--suite TestCases.Multiplebrowsers
+--suite TestCases.Navigation
+--suite TestCases.RadioButtons
+--suite TestCases.Scroll
+--suite TestCases.Setupandteardown
+--suite TestCases.TC1
+--suite TestCases.TC2
+--suite TestCases.Tabbedwindows
+--suite TestCases.Tags
+--suite TestCases.TimeoutTest
+--suite TestCases.UserDefined
+--suite TestCases.dropdownListbox
+--suite TestCases.speedTest

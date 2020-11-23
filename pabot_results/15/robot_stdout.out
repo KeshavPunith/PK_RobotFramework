@@ -1,0 +1,17 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.TC1                                                                 
+==============================================================================
+LoginTest                                                             | FAIL |
+TypeError: 'module' object is not callable
+------------------------------------------------------------------------------
+TestCases.TC1                                                         | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\15\output.xml

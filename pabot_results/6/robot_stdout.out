@@ -1,0 +1,17 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Inputbox                                                            
+==============================================================================
+TestingInputBox                                                       | FAIL |
+The element 'id:Email' should not be visible, but it is.
+------------------------------------------------------------------------------
+TestCases.Inputbox                                                    | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Punith.Keshav\PycharmProjects\RobotFrameworkProject\pabot_results\6\output.xml
