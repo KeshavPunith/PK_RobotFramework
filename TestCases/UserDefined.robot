@@ -14,4 +14,5 @@ TC1
     log    ${PageTitle}
     input text    name:userName     Mercury
     input text    name:password     Mercury
+    close all browsers
 
